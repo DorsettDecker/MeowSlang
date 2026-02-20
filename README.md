@@ -1,8 +1,10 @@
 # MeowSlang
 This repo contains a documentation about the Meow slang that I use.
 
-There are different occassions when I say meow. The meaning of each "meow" depends upon the context of the chat and the sentence in which "meow" is used. I have talked about each of it in the preceding heads.
+There are different occassions when I say meow. The meaning of each "meow" depends upon the context of the chat and the sentence in which "meow" is used. I have talked about each of it in the following heads.
 <br>
+<h3>Meow</h3>
+<p>Basically acknowledging</p>
 <h3>Meow!</h3>
 <p>It usually means "Yes!"</p>
 <br>
