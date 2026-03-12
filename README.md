@@ -5,6 +5,7 @@ There are different occassions when I say meow. The meaning of each "meow" depen
 <br>
 <h3>Meow</h3>
 <p>Basically acknowledging</p>
+<br>
 <h3>Meow!</h3>
 <p>It usually means "Yes!"</p>
 <br>
