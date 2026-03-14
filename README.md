@@ -16,4 +16,4 @@ There are different occassions when I say meow. The meaning of each "meow" depen
 <p>It means I am shocked and I am asking for confirmation if what you said is true.</p>
 <br>
 <h3>Curses</h3>
-<p>When I have to curse, instead of actually saying any abusive words, I replace them with "meow". For example: I don't give a meow. (I don't give a fk)</p>
+<p>When I have to curse, instead of actually saying any abusive words, I replace them with "meow". For example: I don't give a meow.</p>
